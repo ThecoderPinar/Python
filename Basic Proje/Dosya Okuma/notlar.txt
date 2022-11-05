@@ -1,0 +1,6 @@
+('ali', 45)
+('ahmet', 90)
+('veli', 75)
+('mehmet', 60)
+('serdar', 85)
+('ayse', 40)
